@@ -1,0 +1,11 @@
+C:\Users\KEVINALEXANDERBASTID\Desktop\CRUD_CORE\Repository\bin\Debug\net5.0\Repository.deps.json
+C:\Users\KEVINALEXANDERBASTID\Desktop\CRUD_CORE\Repository\bin\Debug\net5.0\Repository.dll
+C:\Users\KEVINALEXANDERBASTID\Desktop\CRUD_CORE\Repository\bin\Debug\net5.0\ref\Repository.dll
+C:\Users\KEVINALEXANDERBASTID\Desktop\CRUD_CORE\Repository\bin\Debug\net5.0\Repository.pdb
+C:\Users\KEVINALEXANDERBASTID\Desktop\CRUD_CORE\Repository\obj\Debug\net5.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KEVINALEXANDERBASTID\Desktop\CRUD_CORE\Repository\obj\Debug\net5.0\Repository.AssemblyInfoInputs.cache
+C:\Users\KEVINALEXANDERBASTID\Desktop\CRUD_CORE\Repository\obj\Debug\net5.0\Repository.AssemblyInfo.cs
+C:\Users\KEVINALEXANDERBASTID\Desktop\CRUD_CORE\Repository\obj\Debug\net5.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\KEVINALEXANDERBASTID\Desktop\CRUD_CORE\Repository\obj\Debug\net5.0\Repository.dll
+C:\Users\KEVINALEXANDERBASTID\Desktop\CRUD_CORE\Repository\obj\Debug\net5.0\ref\Repository.dll
+C:\Users\KEVINALEXANDERBASTID\Desktop\CRUD_CORE\Repository\obj\Debug\net5.0\Repository.pdb

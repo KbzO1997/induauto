@@ -1,0 +1,43 @@
+﻿<div class="container mt-5">
+    <h1 class="mb-4">Insertar Vehículo</h1>
+    <input type="text" class="form-control d-none" id="id" name="id" >
+
+    <div class="form-group">
+        <label for="codigo">Código:</label>
+        <input type="text" class="form-control" id="codigo" name="codigo" required>
+    </div>
+    <div class="form-group">
+        <label for="chasis">Chasis:</label>
+        <input type="text" class="form-control" id="chasis" name="chasis" required>
+    </div>
+    <div class="form-group">
+        <label for="marca">Marca:</label>
+        <input type="text" class="form-control" id="marca" name="marca" required>
+    </div>
+    <div class="form-group">
+        <label for="modelo">Modelo:</label>
+        <input type="text" class="form-control" id="modelo" name="modelo" required>
+    </div>
+    <div class="form-group">
+        <label for="anio_modelo">Año Modelo:</label>
+        <input type="number" class="form-control" id="anio_modelo" name="anio_modelo" required>
+    </div>
+    <div class="form-group">
+        <label for="color">Color:</label>
+        <input type="text" class="form-control" id="color" name="color" required>
+    </div>
+    <div class="form-group">
+        <label for="estado">Estado:</label>
+        <input type="text" class="form-control" id="estado" name="estado" required>
+    </div>
+    <div class="form-group">
+        <label for="fecha_registro">Fecha Registro:</label>
+        <input type="date" class="form-control" id="fecha_registro" name="fecha_registro" required>
+    </div>
+    <button type="submit" class="btn btn-primary" onclick="insertarVehiculo()">Insertar</button>
+
+    <button class="btn btn-primary mb-4" onclick="consultarVehiculo()">Consultar Vehículo</button>
+
+    <div id="divConsulta"></div>
+
+</div>

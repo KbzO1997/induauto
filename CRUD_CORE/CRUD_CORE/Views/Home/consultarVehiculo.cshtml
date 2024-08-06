@@ -1,0 +1,33 @@
+﻿@{ 
+    Layout = null;
+}
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Código</th>
+            <th>Chasis</th>
+            <th>Marca</th>
+            <th>Modelo</th>
+            <th>Año Modelo</th>
+            <th>Color</th>
+            <th>Estado</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody id="vehiculoInfo">
+        @foreach (var vh in @ViewBag.Vehiculos)
+        {
+            <tr>
+                <td>@vh.codigo</td>
+                <td>@vh.chasis</td>
+                <td>@vh.marca</td>
+                <td>@vh.modelo</td>
+                <td>@vh.anio_modelo</td>
+                <td>@vh.color</td>
+                <td>@vh.estado</td>
+                <td><button class="btn btn-primary" onclick="editar(@vh.id)">Editar</button></td>
+            </tr>
+         }
+    </tbody>
+</table>
